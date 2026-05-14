@@ -85,7 +85,6 @@ The dashboard presents three key visuals on a single page:
 - **Line Chart** — Monthly revenue trend (January–July), showing a peak in March and a recovery trend from May
 
 ![RetailPulse Dashboard](RetailPulse_Main_Dashboard.png)
-
 ---
 
 ## Key Insights
