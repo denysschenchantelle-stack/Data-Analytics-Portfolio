@@ -1,4 +1,4 @@
-# Data Analytics Portfolio — Chantelle Denyssche
+# Data Analytics Portfolio — Chantelle De Nysschen
 
 Hi! I'm Chantelle, an aspiring data analyst based in Johannesburg, South Africa, building a portfolio of real-world analytics projects from the ground up.
 
